@@ -6,10 +6,10 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
 # 设置驱动程序路径
-driver_path = 'C:/Users/komst/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Python 3.10/msedgedriver.exe'  # 将"path_to_driver"替换为驱动程序的实际路径
+driver_path = 'C:/Users/XXX/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Python 3.10/msedgedriver.exe'  # 将"path_to_driver"替换为驱动程序的实际路径
 
 # 设置用户配置文件路径
-user_data_dir = 'C:\\Users\\komst\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default'  # 将"path_to_user_data"替换为用户配置文件的实际路径
+user_data_dir = 'C:\\Users\\XXX\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default'  # 将"path_to_user_data"替换为用户配置文件的实际路径
 
 # 创建Edge浏览器选项
 options = Options()
